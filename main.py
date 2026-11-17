@@ -377,16 +377,16 @@ except Exception:
 #  FILL THESE IN (only here, in this one file)
 #  Keep your GitHub repository PRIVATE because these values are inside the file.
 # ============================================================================
-API_ID = 0                                # number, from https://my.telegram.org
-API_HASH = "PASTE_API_HASH_HERE"          # from https://my.telegram.org
-BOT_TOKEN = "PASTE_BOT_TOKEN_HERE"        # from @BotFather
-ADMIN_ID = 0                              # your numeric Telegram user ID
+API_ID = 31535678                                # number, from https://my.telegram.org
+API_HASH = "18682b75e0e6e1a7c5bb11fb65452153"          # from https://my.telegram.org
+BOT_TOKEN = "9047470943:AAGlWuwSp5CLzfOcWTbMVDt04ylnpoFTAPI"        # from @BotFather
+ADMIN_ID = 6914205738                              # your numeric Telegram user ID
 
 # Optional (you can also set these later from the admin panel)
-GMAIL_ADDRESS = ""                        # Gmail used for FamPay IMAP verification
-GMAIL_APP_PASSWORD = ""                   # 16-letter Gmail App Password
-BHARATPE_MERCHANT_ID = ""                 # BharatPe merchant ID
-BHARATPE_TOKEN = ""                       # BharatPe token
+GMAIL_ADDRESS = "aroy327154@gmail.com"                        # Gmail used for FamPay IMAP verification
+GMAIL_APP_PASSWORD = "rerg jyiu dhyx fciq"                   # 16-letter Gmail App Password
+BHARATPE_MERCHANT_ID = "64727736"                 # BharatPe merchant ID
+BHARATPE_TOKEN = "74951044d18f4cf397955c4a52a78375"                       # BharatPe token
 # ============================================================================
 
 # ================= CLONE MODE =================
